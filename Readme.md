@@ -1,10 +1,10 @@
 # Guestbook Html Boilerplate
 
-This boilerplate helps you focus on the backend tool or web project you are trying to build instead of getting hung up on the details. Forget worries about how it looks or same old HTML that you already know and focus on what you are trying to learn.
+This boilerplate helps you focus on the backend tool or web project you are trying to build instead of getting hung up on the details. Forget worries about how it looks or same old HTML that you already know and focus on what you are trying to achieve.
 
 Why Guestbook Html Boilerplate? Aren't you tired of building Todo apps already?? LOL
 
-Built with Semantic UI - http://www.semantic-ui.com for frontend.
+This template is built with Semantic UI - http://www.semantic-ui.com for frontend.
 
 ##Screenshots 
 
