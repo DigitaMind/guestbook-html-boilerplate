@@ -24,3 +24,13 @@ Develop a landing page that displays the records in your database, a form to cre
 - Create a client application leveraging on the provided HTML template, using a modern JavaScript framework (e.g., React or Angular)
 - Persist data to a MySQL database
 - Build a RESTful API with PHP Slim Framework to serve the CRUD http requests from the React or Angular client.
+
+### Instructions:
+- Clone this repository
+- Create a new private repository on Github.
+- Leverage on the HTML templates provided to build the UI components.
+- Save the client (Angular or React) in a client folder and save the PHP Slim backend service in the Server folder of the root directory of your repository.
+- Save the database script (sql) in the SQL folder of the root directory as with the Client and Server folders mentioned above.
+- Add this username as a contributor to your private repository upon completion.
+- Send a mail to the HR to officially communicate your submission.
+- Cheers!
